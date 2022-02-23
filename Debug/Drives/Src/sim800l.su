@@ -1,0 +1,8 @@
+sim800l.c:12:6:Initialize_SIM900	8	static
+sim800l.c:42:6:SIM900_putch	16	static
+sim800l.c:61:6:SIM900_getch	8	static
+sim800l.c:82:6:SIM900_send_string	16	static
+sim800l.c:103:6:SIM900_print	16	static
+sim800l.c:125:9:SIM900_isStarted	8	static
+sim800l.c:147:9:SIM900_isReady	8	static
+sim800l.c:167:15:SIM900_waitResponse	72	static
