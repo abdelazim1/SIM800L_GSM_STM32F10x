@@ -7,6 +7,6 @@ Note:
 This version(V0.0 has some issue) which i am working on.
 
 ## How to use?
-1- rpleace the usart driver with your usart  
-2- open sim800.c file and rpleace the usart api with your convension.  
+1- replace the usart driver with your usart  
+2- open sim800.c file and replace the usart api with your convension.  
 
